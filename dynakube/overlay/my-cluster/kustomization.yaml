@@ -4,7 +4,7 @@ resources:
 - ../../base
 
 patches:
-- path: dynakube-cloudNative.yaml
+- path: dynakube.yaml
   target:
     kind: DynaKube
   options:
